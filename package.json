@@ -1,0 +1,20 @@
+{
+  "name": "express-api",
+  "version": "1.0.0",
+  "description": "week 10 - vue, express, heroku",
+  "main": "server.js",
+  "author": "yp0975eu",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "start": "node ./server.js",
+    "nodemon": "nodemon"
+  },
+  "devDependencies": {
+    "@vue/cli": "^4.2.3",
+    "nodemon": "^2.0.2"
+  }
+}
